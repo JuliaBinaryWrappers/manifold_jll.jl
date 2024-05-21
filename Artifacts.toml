@@ -1,0 +1,176 @@
+[[manifold]]
+arch = "aarch64"
+git-tree-sha1 = "ffb54e48de4df13684c457230d16642c6c8c487b"
+os = "macos"
+
+    [[manifold.download]]
+    sha256 = "022953187bb972148848988758cfccb865d993eb0fd42bffedd24630197a993b"
+    url = "https://github.com/JuliaBinaryWrappers/manifold_jll.jl/releases/download/manifold-v2.4.5+0/manifold.v2.4.5.aarch64-apple-darwin.tar.gz"
+[[manifold]]
+arch = "aarch64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "512b05a8d72a8927bd7b82e317e30a176d0ef043"
+libc = "glibc"
+os = "linux"
+
+    [[manifold.download]]
+    sha256 = "26f894c3eba9e143672bb732130361c8e80b8835e701890aaa2d1675c0b5015b"
+    url = "https://github.com/JuliaBinaryWrappers/manifold_jll.jl/releases/download/manifold-v2.4.5+0/manifold.v2.4.5.aarch64-linux-gnu-cxx03.tar.gz"
+[[manifold]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "7ddb935402b1b13e570070e4ee6e7ae3bafc6a8a"
+libc = "glibc"
+os = "linux"
+
+    [[manifold.download]]
+    sha256 = "7f39bf7dbc763d72cb8def915032dc9aecac01d1d3dc4383341c1cbe75422c43"
+    url = "https://github.com/JuliaBinaryWrappers/manifold_jll.jl/releases/download/manifold-v2.4.5+0/manifold.v2.4.5.aarch64-linux-gnu-cxx11.tar.gz"
+[[manifold]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "24f7f1e91901351d9e4574e8b4b2bf663cc8b760"
+libc = "glibc"
+os = "linux"
+
+    [[manifold.download]]
+    sha256 = "a92415a82d4d8004b9966e0ae565e7d47a25d4bcd664494c953e39febdb7190f"
+    url = "https://github.com/JuliaBinaryWrappers/manifold_jll.jl/releases/download/manifold-v2.4.5+0/manifold.v2.4.5.armv6l-linux-gnueabihf-cxx03.tar.gz"
+[[manifold]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "cdc49ee1acd32081f7f893a15e3752ad518c2fca"
+libc = "glibc"
+os = "linux"
+
+    [[manifold.download]]
+    sha256 = "5386ff93ebe7fdef69626e43c7afea9e459c688d7319504c0675099203ed0808"
+    url = "https://github.com/JuliaBinaryWrappers/manifold_jll.jl/releases/download/manifold-v2.4.5+0/manifold.v2.4.5.armv6l-linux-gnueabihf-cxx11.tar.gz"
+[[manifold]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "e6f1e613e2f0a36a578e9a55f94b643e5719e0b6"
+libc = "glibc"
+os = "linux"
+
+    [[manifold.download]]
+    sha256 = "72e959affb9d0f97626b85a4524062594cf33d4d350d13748a4bbc3f4c2a9fd2"
+    url = "https://github.com/JuliaBinaryWrappers/manifold_jll.jl/releases/download/manifold-v2.4.5+0/manifold.v2.4.5.armv7l-linux-gnueabihf-cxx03.tar.gz"
+[[manifold]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "c2e7b4deb6c552d530c8579f26199949e6a839b8"
+libc = "glibc"
+os = "linux"
+
+    [[manifold.download]]
+    sha256 = "bd58a2064530af00f18a8afed3e8163c787d0e00b3a7c47b7d43f1ee40a7f57a"
+    url = "https://github.com/JuliaBinaryWrappers/manifold_jll.jl/releases/download/manifold-v2.4.5+0/manifold.v2.4.5.armv7l-linux-gnueabihf-cxx11.tar.gz"
+[[manifold]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "2a5ef66e1073ec19c0b9ec022bb653e60c24ce40"
+libc = "glibc"
+os = "linux"
+
+    [[manifold.download]]
+    sha256 = "e550f493fbd811fa938ff55b0ac6505c66ec86a753696d045e886d3986fb99f2"
+    url = "https://github.com/JuliaBinaryWrappers/manifold_jll.jl/releases/download/manifold-v2.4.5+0/manifold.v2.4.5.i686-linux-gnu-cxx03.tar.gz"
+[[manifold]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "c9e684b0cf15531f7116445c3fffb10e89f20686"
+libc = "glibc"
+os = "linux"
+
+    [[manifold.download]]
+    sha256 = "0e36b5a408cf7c17edeed91add5f20313702e30e2f3fe08355bea7a3e4532791"
+    url = "https://github.com/JuliaBinaryWrappers/manifold_jll.jl/releases/download/manifold-v2.4.5+0/manifold.v2.4.5.i686-linux-gnu-cxx11.tar.gz"
+[[manifold]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "fb5966e0409c295b9a08ef37930e04f7a1152dfe"
+os = "windows"
+
+    [[manifold.download]]
+    sha256 = "558651780e06428c906ad78d96b2e1cab17ecf46876c35f6a28cea42b33baeb0"
+    url = "https://github.com/JuliaBinaryWrappers/manifold_jll.jl/releases/download/manifold-v2.4.5+0/manifold.v2.4.5.i686-w64-mingw32-cxx03.tar.gz"
+[[manifold]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "2961feb9a9f09255c9eb206ad73775b2a5982854"
+os = "windows"
+
+    [[manifold.download]]
+    sha256 = "479df3b900c839e6cf6652814146cdf4e18a0f4b64ad391f3da5cad639120fad"
+    url = "https://github.com/JuliaBinaryWrappers/manifold_jll.jl/releases/download/manifold-v2.4.5+0/manifold.v2.4.5.i686-w64-mingw32-cxx11.tar.gz"
+[[manifold]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "5b9acdaaf0d77c7f03d7d7ced7e91c862d2b5569"
+libc = "glibc"
+os = "linux"
+
+    [[manifold.download]]
+    sha256 = "568eb7fdb33c1abacc1c6575628c4452d95dd837c90b91da325fb102d020f609"
+    url = "https://github.com/JuliaBinaryWrappers/manifold_jll.jl/releases/download/manifold-v2.4.5+0/manifold.v2.4.5.powerpc64le-linux-gnu-cxx03.tar.gz"
+[[manifold]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "796aa762d51f9af7f4548b27c8a278c37847f2e9"
+libc = "glibc"
+os = "linux"
+
+    [[manifold.download]]
+    sha256 = "b8c1cd6cbf2bc32446903dd3a9ab25509595df692659cf8f83e6fa20959e46c2"
+    url = "https://github.com/JuliaBinaryWrappers/manifold_jll.jl/releases/download/manifold-v2.4.5+0/manifold.v2.4.5.powerpc64le-linux-gnu-cxx11.tar.gz"
+[[manifold]]
+arch = "x86_64"
+git-tree-sha1 = "c60d08b31897d51e41b52a28fac450015d3837e4"
+os = "macos"
+
+    [[manifold.download]]
+    sha256 = "de5a79422970971840c72495cf5936f7774a89a70cf317c169d2efe901e17ff9"
+    url = "https://github.com/JuliaBinaryWrappers/manifold_jll.jl/releases/download/manifold-v2.4.5+0/manifold.v2.4.5.x86_64-apple-darwin.tar.gz"
+[[manifold]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "3a5992eb5759d0c71d2afbe29230ba053254b6a6"
+libc = "glibc"
+os = "linux"
+
+    [[manifold.download]]
+    sha256 = "51f078060c6e9db4672e1c74398efb5cbfcf61e08dd5b438a10069b755fe27eb"
+    url = "https://github.com/JuliaBinaryWrappers/manifold_jll.jl/releases/download/manifold-v2.4.5+0/manifold.v2.4.5.x86_64-linux-gnu-cxx03.tar.gz"
+[[manifold]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "a27b69c6d9c3b0fadc66af6d47d92be7ad045c54"
+libc = "glibc"
+os = "linux"
+
+    [[manifold.download]]
+    sha256 = "ed4f90590b766723b39f962081c4ec9677383f504dcd9418ef98e9cca2f060c7"
+    url = "https://github.com/JuliaBinaryWrappers/manifold_jll.jl/releases/download/manifold-v2.4.5+0/manifold.v2.4.5.x86_64-linux-gnu-cxx11.tar.gz"
+[[manifold]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "2a2ff2e8bd269f9c6ab3b684d156939db54b9e9a"
+os = "windows"
+
+    [[manifold.download]]
+    sha256 = "a635ee3483de784fa0526d347f2670454622bb14408d05915468c25238817e6e"
+    url = "https://github.com/JuliaBinaryWrappers/manifold_jll.jl/releases/download/manifold-v2.4.5+0/manifold.v2.4.5.x86_64-w64-mingw32-cxx03.tar.gz"
+[[manifold]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "8c4829e42d38bba4f89362a1cbaa71531286c224"
+os = "windows"
+
+    [[manifold.download]]
+    sha256 = "58a2296a3e8631d4e39a193cff5045b00a5880b7d665f69bc4293d5cf8b329a5"
+    url = "https://github.com/JuliaBinaryWrappers/manifold_jll.jl/releases/download/manifold-v2.4.5+0/manifold.v2.4.5.x86_64-w64-mingw32-cxx11.tar.gz"
